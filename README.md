@@ -64,7 +64,7 @@ Make sure you have the following installed on your machine:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/Rutuja-131005/StudyBuddy.git
+    git clone https://github.com/ivaibhavpawar1045/StudyBuddy.git
     cd StudyBuddy
     ```
 
